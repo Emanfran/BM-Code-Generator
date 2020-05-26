@@ -1,5 +1,5 @@
-# Basic-HTML-Generator
-<article>The Basic HTML Generator creates the bare bones of a html website.</article>
+# Bare-Minimum-Code-Generator
+<article>The BM Code Generator writes the boilerplate code so you don't have to. </article>
 
 <h3>How To Use The Program ?</h3>
 
