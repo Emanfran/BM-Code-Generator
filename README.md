@@ -2,3 +2,5 @@
 <article>The Basic HTML Generator creates the bare bones of a html website.</article>
 
 <h3>How To Use The Program ?</h3>
+<p>Step 1:</p>
+
