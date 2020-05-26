@@ -8,4 +8,4 @@
 
 <h4>Step 2</h4>
 <article>Once the file is unzipped, open the terminal and type in:</article>
-<article>  java -jar htmlTemplete.jar</article>
+<article>  java -jar BMCGen.jar</article>
