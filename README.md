@@ -7,5 +7,5 @@
 <article>Download/Clone the zip file.</article>
 
 <h4>Step 2</h4>
-<article>Once the file is unzipped, open the terminal and type in</article>
-<li> java -jar htmlTemplete.jar</li>
+<article>Once the file is unzipped, open the terminal and type in:</article>
+<article>  java -jar htmlTemplete.jar</article>
