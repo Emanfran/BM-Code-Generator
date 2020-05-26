@@ -3,9 +3,9 @@
 
 <h3>How To Use The Program ?</h3>
 
-<h3>Step 1
+<h4>Step 1</h4>
 <article>Download/Clone the zip file.</article>
 
-<h3>Step 2
+<h4>Step 2</h4>
 <article>Once the file is unzipped, open the terminal and type in</article>
 <li> java -jar htmlTemplete.jar</li>
